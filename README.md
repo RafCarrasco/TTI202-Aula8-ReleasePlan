@@ -19,10 +19,66 @@ Para que fosse possível salvar minhas informações de perfil (nome, endereço,
 
 3- Criar uma página de login segura e responsiva, que permita que os usuários acessem suas informações de perfil e agendamentos - 13 story points
 
-## Medição de prioridade
+## Medição de prioridade RICE
 
-1- Usuário conseguir relizar login e log off
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tabela RICE</title>
+    <style>
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 10px;
+        text-align: center;
+      }
+      th {
+        background-color: #4CAF50;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>Projeto</th>
+        <th>R</th>
+        <th>I</th>
+        <th>C</th>
+        <th>E</th>
+        <th>Prioridade</th>
+      </tr>
+      <tr>
+        <td>Armazenar informações de login no banco de dados</td>
+        <td>300</td>
+        <td>2</td>
+        <td>100%</td>
+        <td>5</td>
+        <td>25</td>
+      </tr>
+      <tr>
+        <td>Implementar registro de novos clientes</td>
+        <td>150</td>
+        <td>3</td>
+        <td>80%</td>
+        <td>8</td>
+        <td>40</td>
+      </tr>
+      <tr>
+        <td>Criar uma landing page para os usuários</td>
+        <td>200</td>
+        <td>3</td>
+        <td>90%</td>
+        <td>13</td>
+        <td>75</td>
+      </tr>
+    </table>
+  </body>
+</html>
 
-2- Usuário conseguir marcar sua consulta
 
-3- Usuário receber informações de consultas marcadas.
+### Rafael Alves Carrasco
+
+### 20.01256-0
